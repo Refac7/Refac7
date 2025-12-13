@@ -12,9 +12,9 @@
 ```bash
 Refac7@github
 ───────────
-操作系统/OS: macOS Tahoe 26.0, Windows11, Debian 13 Trixie
+操作系统/OS: macOS Tahoe 26.1, Windows11, Debian 13 Trixie
 职业/Jobs: 农民, 学生/Farmer, Student.                           ／＞　 フ
-爱好/Hobbys: 无人在意/Nobody cares                              | 　_　_|
+爱好/Hobbys: 睡觉/Sleep                                        | 　_　_|
 技能/Skills:                                                 ／` ミ＿xノ
     ├─ 编程语言/Langs: Cmd+C、Cmd+V, Git clone               ／　　　　 |
     ├─ 前端/Frontend: Astro, React, Next.js                (　 ヽ＿ヽ_)__)
