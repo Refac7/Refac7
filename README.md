@@ -1,5 +1,5 @@
 
-# Hi there! I'm Refact
+# Hi there! I'm Refac7
 
 [![Refact counter](https://count.getloli.com/get/@:refact?theme=rule30)](https://github.com/Refac7)
 
@@ -12,8 +12,8 @@
 ```bash
 Refac7@github
 ───────────
-操作系统/OS: macOS Tahoe 26.1, Windows11, Debian 13 Trixie
-职业/Jobs: 农民, 学生/Farmer, Student.                           ／＞　 フ
+操作系统/OS: macOS Tahoe 26.2, Windows11, Debian 13 Trixie
+职业/Jobs: 农民, 学生/Farmer, Student.                          ／＞　 フ
 爱好/Hobbys: 睡觉/Sleep                                        | 　_　_|
 技能/Skills:                                                 ／` ミ＿xノ
     ├─ 编程语言/Langs: Cmd+C、Cmd+V, Git clone               ／　　　　 |
