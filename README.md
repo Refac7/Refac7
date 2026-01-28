@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006BD4&random=true&width=435&lines=A+farmer+in+Henan+Province.)](https://git.io/typing-svg)
 
+![Image](https://github.com/user-attachments/assets/3b6f6610-8611-45a9-ae43-f28ce077ea85)
+
 ---
 
 ## About Me
