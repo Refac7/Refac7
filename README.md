@@ -1,6 +1,8 @@
 
 # Hi there! I'm Refac7
 
+[![wakatime](https://wakatime.com/badge/user/3e42b32a-5503-4a99-b4fc-32044336bac8.svg)](https://wakatime.com/@3e42b32a-5503-4a99-b4fc-32044336bac8)
+
 [![Refact counter](https://count.getloli.com/get/@:refact?theme=rule30)](https://github.com/Refac7)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=006BD4&random=true&width=435&lines=A+farmer+in+Henan+Province.)](https://git.io/typing-svg)
