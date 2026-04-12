@@ -16,7 +16,7 @@
 ```bash
 Refac7@github
 ───────────
-操作系统/OS: macOS Tahoe 26.2, Windows11, Debian 13 Trixie
+操作系统/OS: macOS Tahoe 26.4, Windows11 (Test env only), Debian 13 Trixie
 职业/Jobs: 农民, 学生/Farmer, Student.                          ／＞　 フ
 爱好/Hobbys: 睡觉/Sleep                                        | 　_　_|
 技能/Skills:                                                 ／` ミ＿xノ
